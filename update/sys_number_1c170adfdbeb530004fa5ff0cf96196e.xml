@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_22240_nokia_orde_nokia_order_table">x_22240_nokia_orde_nokia_order_table</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>NOK</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-01 10:15:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>1c170adfdbeb530004fa5ff0cf96196e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NOK</sys_name>
+        <sys_package display_value="Nokia Order" source="x_22240_nokia_orde">d1b68e1fdbeb530004fa5ff0cf96193a</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Nokia Order">d1b68e1fdbeb530004fa5ff0cf96193a</sys_scope>
+        <sys_update_name>sys_number_1c170adfdbeb530004fa5ff0cf96196e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-01 10:15:07</sys_updated_on>
+    </sys_number>
+</record_update>

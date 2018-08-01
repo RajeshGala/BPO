@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_22240_bpo_order_table" label="Nokia Order Table" max_length="40" name="x_22240_nokia_orde_nokia_order_table" type="collection"/>
+</database>
